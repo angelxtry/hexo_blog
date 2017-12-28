@@ -1,0 +1,6 @@
+{
+    "vim.useSystemClipboard": true,
+    "files.autoSave": "onFocusChange",
+    "files.encoding": "utf8",
+    "editor.renderWhitespace": "all",
+}
